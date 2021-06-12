@@ -44,7 +44,7 @@
        <workerType>Mirco</workerType>
 	   <workers>1</workers>
 	   <uri>https://anypoint.mulesoft.com</uri>;
-	   <applicationName>$cicdpipeline</applicationName>
+	   <applicationName>$cicdss</applicationName>
 	   </cloudHubDeployment>
 	   </configuration>
 	   <executions>
